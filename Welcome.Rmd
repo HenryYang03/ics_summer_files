@@ -1,19 +1,26 @@
 ---
 title: "Welcome"
-author: "Dr. Zhaoxia Yu"
-output:
+author: "Dr. Babak Shahbaba <br> Dr. Jessica Jaynes"
+output: 
   xaringan::moon_reader:
+    css: ["slide-style.css", "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"]
     lib_dir: libs
+    seal: false
     nature:
-      highlightStyle: github
+      beforeInit: "cols_macro.js"
+      ratio: 16:9
+      highlightStyle: "pygments"
       highlightLines: true
-      countIncrementalSlides: false
----
+      highlightLanguage: "r"
 
+---
+class: center middle
 # Welcome to the ICS Summer Camp
 
-# Dr. ZhaoxiaYu
-![Dr. Babak Shahbaba](pictures/Stats-Zhaoxia-Yu.jpg)
+# Dr. Zhaoxia Yu
+```{r echo=FALSE, fig.align='center', out.width="30%"}
+knitr::include_graphics("pictures/Stats-Zhaoxia-Yu.jpg")
+```
 
 ---
 
