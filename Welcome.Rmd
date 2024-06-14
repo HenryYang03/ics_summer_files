@@ -1,0 +1,21 @@
+---
+title: "Welcome"
+author: "Dr. Zhaoxia Yu"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# Welcome to the ICS Summer Camp
+
+# Dr. ZhaoxiaYu
+![Dr. Babak Shahbaba](pictures/Stats-Zhaoxia-Yu.jpg)
+
+---
+
+# Next Slide
+Here is the content of the next slide.
